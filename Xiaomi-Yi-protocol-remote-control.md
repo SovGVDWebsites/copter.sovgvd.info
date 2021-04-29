@@ -53,9 +53,9 @@ Video stream
 ==========
 Video stream could be activated via YiCamera application, after activation stream rtsp://192.168.42.1/live will be available for VLC or any other uitable application. Stream is h.264 640x480
 
-![pic1](https://github.com/SovGVDWebsites/copter.sovgvd.info/blob/master/pics/ab4/858/ab485818ce9af6b0307890a0304391a9.png?raw=true)
+![pic1](https://github.com/SovGVDWebsites/copter.sovgvd.info/blob/main/pics/ab4/858/ab485818ce9af6b0307890a0304391a9.png?raw=true)
 
-![pic2](https://github.com/SovGVDWebsites/copter.sovgvd.info/blob/master/pics/631/5cf/6315cffb793a1c2ef961f3fdea874a86.png?raw=true)
+![pic2](https://github.com/SovGVDWebsites/copter.sovgvd.info/blob/main/pics/631/5cf/6315cffb793a1c2ef961f3fdea874a86.png?raw=true)
 
 
 RAW requests and answers
