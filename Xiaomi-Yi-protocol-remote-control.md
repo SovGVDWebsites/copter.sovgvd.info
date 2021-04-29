@@ -60,7 +60,7 @@ Video stream could be activated via YiCamera application, after activation strea
 
 RAW requests and answers
 ============
-[download](https://github.com/SovGVDWebsites/copter.sovgvd.info/blob/master/extra/xiaomi.log)
+download - sorry, lost file =(
 
 too lazy for remove my serial number =)
 
