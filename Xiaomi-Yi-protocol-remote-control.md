@@ -3,14 +3,14 @@ Research of Xiaomi Yi protocol
 7878 - remote control port, use JSON 
 [PC/Mac/Linux Python GUI](https://github.com/deltaflyer4747/Xiaomi_Yi/tree/master/Standalone_scripts)
 
-<cut>
 Opened ports on 192.168.42.1
-========
+```
 Discovered open port 80/tcp on 192.168.42.1
 Discovered open port 554/tcp on 192.168.42.1
 Discovered open port 53/tcp on 192.168.42.1
 Discovered open port 8787/tcp on 192.168.42.1
 Discovered open port 7878/tcp on 192.168.42.1
+```
 
  - 80 - http access (for download files via Wi-Fi http://192.168.42.1/DCIM/100MEDIA/)
  - 7878 - remote control port, use JSON 
